@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import os.path
 import glob
-import pytesseract
+import pyte
 
 
 def coinCrop(jpgfile, outdir):
